@@ -1,0 +1,11 @@
+{
+  "name": "ilovespinner",
+  "version": "0.0.1",
+  "description": "Libreria de spinner para poder implementar desde Vue, React,Angular. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TeamFriends",
+  "license": "MIT"
+}
